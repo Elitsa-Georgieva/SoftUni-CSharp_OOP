@@ -49,9 +49,18 @@ namespace Aquariums.Tests
             Assert.Throws<InvalidOperationException>(() => aquarium.Add(fish3));
         }
 
+        [Test]
+        public void RemoveFishMethodThrowAnExceptionWhenFishDoesNotExist()
+        {
+            aquarium.Add(fish1);
+            aquarium.Add(fish2);
+
+            Assert.Throws<InvalidOperationException>(() => aquarium.RemoveFish("Ribka"));
+        }
+
 
         [Test]
-        public void Remove_DecreaseAquariumCapacity()
+        public void RemoveFish_DecreaseAquariumCapacity()
         {
 
             aquarium = new Aquarium("Aquarium", 10);
