@@ -1,0 +1,9 @@
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Elitsa\source\repos\C# OOP June 2021\OOP_Exams_Practice\Retake Exam - 22 August 2020\03.TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
